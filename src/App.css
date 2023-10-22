@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+  html{
+    font-family: 'McLaren', sans-serif;
+  }
+
+  body{
+    background-color: #fff;
+    padding: 0 16px;
+  }
